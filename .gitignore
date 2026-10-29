@@ -1,0 +1,8 @@
+.venv/
+.pio/
+.platformio/
+data/
+__pycache__/
+publish-repo/
+artifacts/camera_preview.png
+artifacts/device_serial_latest.txt

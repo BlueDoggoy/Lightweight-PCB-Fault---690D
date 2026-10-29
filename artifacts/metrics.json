@@ -1,0 +1,28 @@
+{
+  "float": {
+    "accuracy": 0.9079617834394904,
+    "recall": 0.9789808917197452,
+    "false_positive_rate": 0.16305732484076432,
+    "tp": 3074,
+    "fp": 512,
+    "fn": 66,
+    "tn": 2628
+  },
+  "int8": {
+    "accuracy": 0.9027070063694268,
+    "recall": 0.9821656050955414,
+    "false_positive_rate": 0.1767515923566879,
+    "tp": 3084,
+    "fp": 555,
+    "fn": 56,
+    "tn": 2585
+  },
+  "model_bytes": 8288,
+  "parameters": 3602,
+  "patches": {
+    "train": 10986,
+    "validation": 2760,
+    "test": 6280
+  },
+  "scope": "Centered 64px PCB patches, 32px input; official test split. Not full-board detection or camera accuracy."
+}
